@@ -13,7 +13,7 @@ A simple React app that displays a list of products using components, props, and
 - Uses props and state for dynamic rendering
 - Styled with custom CSS
 
-## 🧩 Component Breakdown
+## Component Breakdown
 
 ### `App.js`
 - Holds state for products
@@ -27,13 +27,13 @@ A simple React app that displays a list of products using components, props, and
 - Displays individual product data
 - Uses props to display image, name, price, description
 
-## 🛠 Technologies
+##  Technologies
 
 - React
 - JavaScript (ES6+)
 - CSS
 
-## ✅ Setup
+## Setup
 
 1. Clone this repo
 2. Run `npm install`
